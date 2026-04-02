@@ -61,15 +61,6 @@ I also have experience managing IT infrastructure and developing custom tools fo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matandrades&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matandrades&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Technology is the bridge between a complex problem and an efficient solution. I code to build systems that scale, last, and simplify the user experience."_
